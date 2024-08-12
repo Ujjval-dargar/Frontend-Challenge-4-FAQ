@@ -11,8 +11,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor-Solution](https://www.frontendmentor.io/solutions/simple-faqs-page-vcK4cw0yVu)
+- Live Site URL: [FAQs Page](https://ujjval-dargar.github.io/Frontend-Challenge-4-FAQ/)
 
 
 ### Built with
